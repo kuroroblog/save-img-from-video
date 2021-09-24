@@ -19,4 +19,5 @@
 9. `$ python main.py`を実行する。
 
 # 参考文献
-https://note.nkmk.me/python-opencv-video-to-still-image/
+・https://note.nkmk.me/python-opencv-video-to-still-image/
+・https://note.nkmk.me/python-pip-install-requirements/
