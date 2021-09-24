@@ -3,12 +3,12 @@ import cv2
 import os
 
 # 動画ファイルパス
-videoPath = "/path_to/xxx.mp4"
+videoPath = "./test.mp4"
 # 静止画像を取り込むディレクトリ
-resultPath = "/path_to/"
+resultPath = "./img/"
 
 # 静止画像を切り出す時間間隔を設定。
-N = 10
+N = 1
 
 # 動画から設定される時間間隔ごとに、静止画像を生成する関数
 def saveImgFromVideo():
