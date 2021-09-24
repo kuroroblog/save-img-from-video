@@ -20,7 +20,7 @@ def saveImgFromVideo():
         print('No such file or directory!!')
         return
 
-    # 静止画像を取り込むディレクトリが存在しない場合に、自動生成する。
+    # 静止画像を取り込むディレクトリが存在しない場合に、ディレクトリを自動生成する。
     os.makedirs(os.path.dirname(resultPath), exist_ok=True)
 
     # 動画からフレーム数を取得する。
