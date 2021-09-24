@@ -1,7 +1,11 @@
 # save-img-from-video
 動画から設定される時間間隔ごとに、静止画像を生成する
 
-Python 3.8.8
+# 各種サービスのversion
+
+| サービス | version |
+| ------------- | ------------- |
+| Python  | 3.8.8  |
 
 # zipをダウンロードしてから動作確認する
 1. https://github.com/kuroroblog/save-img-from-video へアクセスする。
