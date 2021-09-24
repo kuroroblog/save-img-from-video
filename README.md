@@ -15,7 +15,7 @@
 5. zipファイルをダブルクリック
 6. ターミナルを開く。
 7. ターミナルを活用して、zipを展開して生成されたフォルダへ移動する。($ cd Desktop/monte-task-master)
-8. $ python main.pyを実行する。
+8. `$ python main.py`を実行する。
 
 # 参考文献
 https://note.nkmk.me/python-opencv-video-to-still-image/
