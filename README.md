@@ -2,7 +2,7 @@
 動画から設定される時間間隔ごとに、静止画像を生成する
 
 # zipをダウンロードしてから動作確認する
-1. https://github.com/kuroroblog/monte-task へアクセスする。
+1. https://github.com/kuroroblog/save-img-from-video へアクセスする。
 2. 緑色の「Code」と書かれたボタンを選択
 3. 「Download ZIP」を選択
 4. ダウンロードされたzipファイルをデスクトップへ移動
